@@ -1,4 +1,12 @@
 $(function(){
+	$("#name-taipei").hide();
+	  $("#name-keelung").hide();
+	  $("#taipei").click(function(){
+	    $("#name-taipei").show();
+	  });
+	  $("#keelung").click(function(){
+	    $("#name-keelung").show();
+	  });
 	$("#none").click(function(){
 	    location.reload();
 	});
