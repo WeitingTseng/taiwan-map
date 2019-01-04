@@ -1,4 +1,7 @@
 $(function(){
+	$("#none").click(function(){
+	    location.reload();
+	});
 	$(".color").click(function(){
 		$(this).addClass('now');
 		$(".color").not(this).removeClass('now');
