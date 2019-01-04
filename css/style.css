@@ -1,6 +1,9 @@
 *{
 	border: 0px solid #333;
+    	-webkit-tap-highlight-color: transparent;
+    	-webkit-appearance: none;
 }
+
 html,body{
 	background-color: #33A6B8;
 }
