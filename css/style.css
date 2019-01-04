@@ -26,7 +26,7 @@ html,body{
 	font-size: 3vw;
 }
 .twt-map-name-1{
-	font-size: 3vw;
+	font-size: 2vw;
 }
 .twt-map-path{
 	position: absolute;
@@ -35,8 +35,8 @@ html,body{
 #keelung,#taipei{fill: #fff;}
 #hsinchucity,#taichungcity,#chiayicity,#tainancity,#kaohsiungcity{fill: green;display: none;}
 
-#name-keelung{top:12vw;left:78.5vw;}
-#name-taipei{top:13vw;left:71vw;}
+#name-keelung{top:12vw;left:79.5vw;}
+#name-taipei{top:13vw;left:72vw;}
 #name-newtaipei{top:22vw;left:70vw;}
 #name-taoyuan{top:20vw;left:54vw;}
 #name-hsinchu{top:31vw;left:50vw;}
